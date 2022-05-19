@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# 创建的文件:17.05.2022 11:24:17
+# 创建的文件:07.05.2022 17:10:12
 
 newmtl louceng_baiqiang
 	Ns 0.0000
@@ -56,7 +56,7 @@ newmtl louceng_wailimian2
 	map_Kd maps\louceng-wailimian2.jpg
 
 newmtl chuang_tongyong
-	Ns 51.0000
+	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -64,7 +64,7 @@ newmtl chuang_tongyong
 	illum 2
 	Ka 0.5880 0.5880 0.5880
 	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
+	Ks 0.4590 0.4590 0.4590
 	Ke 0.0000 0.0000 0.0000
 	map_Ka maps\chuang-zc.jpg
 	map_Kd maps\chuang-zc.jpg

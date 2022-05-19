@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# 创建的文件:17.05.2022 15:18:15
+# 创建的文件:07.05.2022 18:38:24
 
 newmtl huisemen
 	Ns 10.0000
@@ -12,8 +12,6 @@ newmtl huisemen
 	Kd 0.1490 0.1804 0.1843
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\huise.jpg
-	map_Kd maps\huise.jpg
 
 newmtl biaoshi
 	Ns 10.0000
