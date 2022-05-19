@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# 创建的文件:19.05.2022 15:53:12
+# 创建的文件:19.05.2022 16:31:46
 
 newmtl 19___Default
 	Ns 10.0000
@@ -29,7 +29,7 @@ newmtl dizhuan2
 	map_Ka maps\waidiban.png
 	map_Kd maps\waidiban.png
 
-newmtl 18___Default
+newmtl lvdi
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -43,7 +43,7 @@ newmtl 18___Default
 	map_Ka maps\caoping.jpg
 	map_Kd maps\caoping.jpg
 
-newmtl 05___Default
+newmtl dizhuan
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -57,7 +57,7 @@ newmtl 05___Default
 	map_Ka maps\dizhuan-dinglou.jpg
 	map_Kd maps\dizhuan-dinglou.jpg
 
-newmtl 13___Default
+newmtl bckoliding
 	Ns 10.0000
 	Ni 1.5000
 	d 0.7400
@@ -71,7 +71,7 @@ newmtl 13___Default
 	map_Ka maps\boli.jpg
 	map_Kd maps\boli.jpg
 
-newmtl lambert1
+newmtl ckzz
 	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
@@ -83,7 +83,7 @@ newmtl lambert1
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl caoping2
+newmtl dimen22
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -94,24 +94,10 @@ newmtl caoping2
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\caoping.jpg
-	map_Kd maps\caoping.jpg
+	map_Ka maps\damen.jpg
+	map_Kd maps\damen.jpg
 
-newmtl cizhuan
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\cizhuan.jpg
-	map_Kd maps\cizhuan.jpg
-
-newmtl 12___Default
+newmtl ckqm
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -125,7 +111,7 @@ newmtl 12___Default
 	map_Ka maps\qiangmian.png
 	map_Kd maps\qiangmian.png
 
-newmtl 15___Default
+newmtl ckhl
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -167,7 +153,21 @@ newmtl 11___Default
 	map_Ka maps\tingzi.png
 	map_Kd maps\tingzi.png
 
-newmtl 01___Default
+newmtl caoping2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\caoping.jpg
+	map_Kd maps\caoping.jpg
+
+newmtl cizhuan
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -181,7 +181,33 @@ newmtl 01___Default
 	map_Ka maps\cizhuan.jpg
 	map_Kd maps\cizhuan.jpg
 
-newmtl 02___Default
+newmtl tcx
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl cizhuan2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\cizhuan.jpg
+	map_Kd maps\cizhuan.jpg
+
+newmtl xiapo2
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -195,7 +221,7 @@ newmtl 02___Default
 	map_Ka maps\xiapo.png
 	map_Kd maps\xiapo.png
 
-newmtl 14___Default
+newmtl dixiashi2
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -208,15 +234,3 @@ newmtl 14___Default
 	Ke 0.0000 0.0000 0.0000
 	map_Ka maps\dixiashi.png
 	map_Kd maps\dixiashi.png
-
-newmtl tcx
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 1.0000 1.0000 1.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
