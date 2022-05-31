@@ -1,73 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# 创建的文件:20.05.2022 15:41:35
-
-newmtl 11___Default
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\tingzi.png
-	map_Kd maps\tingzi.png
-
-newmtl YQ_tcw
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 1.0000 1.0000 1.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-
-newmtl 19___Default
-	Ns 10.0000
-	Ni 1.5000
-	d 0.5200
-	Tr 0.4800
-	Tf 0.5200 0.5200 0.5200 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Kd maps\shu.png
-	map_d maps\shu.png
-
-newmtl caodi
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\caoping.jpg
-	map_Kd maps\caoping.jpg
-
-newmtl taijiea
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\waidiban.png
-	map_Kd maps\waidiban.png
+# 创建的文件:27.05.2022 14:18:45
 
 newmtl waiqiang
 	Ns 10.0000
@@ -83,12 +15,12 @@ newmtl waiqiang
 	map_Ka maps\qiangmian.png
 	map_Kd maps\qiangmian.png
 
-newmtl boli
+newmtl boliding
 	Ns 10.0000
 	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
+	d 0.9000
+	Tr 0.1000
+	Tf 0.9000 0.9000 0.9000 
 	illum 2
 	Ka 0.5882 0.5882 0.5882
 	Kd 0.5882 0.5882 0.5882
@@ -153,20 +85,6 @@ newmtl dizhuan2
 	map_Ka maps\dizhuan-dinglou.jpg
 	map_Kd maps\dizhuan-dinglou.jpg
 
-newmtl damen
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5882 0.5882 0.5882
-	Kd 0.5882 0.5882 0.5882
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\damen.jpg
-	map_Kd maps\damen.jpg
-
 newmtl malu
 	Ns 10.0000
 	Ni 1.5000
@@ -195,7 +113,35 @@ newmtl waiweizizhuan
 	map_Ka maps\cizhuan.jpg
 	map_Kd maps\cizhuan.jpg
 
-newmtl dixiashi
+newmtl caodi
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\caoping.jpg
+	map_Kd maps\caoping.jpg
+
+newmtl taijiea
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\waidiban.png
+	map_Kd maps\waidiban.png
+
+newmtl 11___Default
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -206,5 +152,17 @@ newmtl dixiashi
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka maps\dixiashi.png
-	map_Kd maps\dixiashi.png
+	map_Ka maps\tingzi.png
+	map_Kd maps\tingzi.png
+
+newmtl YQ_tcw
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
